@@ -3,20 +3,20 @@
 	"id": "dream-on-freefall",
 	"version": "${version}",
 	"name": "dream-on-freefall",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "SING WITH ME- SING FOR THE YEAR-",
 	"authors": [
-		"Me!"
+		"NotSuper_"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/NotSuper/",
+		"sources": "https://github.com/NotSuper/dream-on-freefall"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/dream-on-freefall/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
-			"com.notsuper.ExampleMod"
+			"com.notsuper.DreamOnFreefall"
 		]
 	},
 	"mixins": [
